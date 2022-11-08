@@ -1,9 +1,8 @@
 Hi!
 
-Im, Joey and I'm an inspiring Full-Stack developer in the MERN Stack.
-My background has been more Infrastructure/Ops background, but now want to focus more on 'Dev'
+Im, Joey, I'm DevOps Engineer and a Full-Stack developer in the MERN Stack.
 
-Currently on my 'Learners Permit' but an improving each day.
-This repo should give you a brief standing of my current skillset level
+Trying to improve everyday, i code more than i commit publically.
+This repo should give you a brief standing of my current skillset level (well not really 😀)
 
-😀
+Happy Coding!
